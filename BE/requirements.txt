@@ -1,0 +1,11 @@
+tree-sitter
+tree-sitter-python
+requests
+pygments
+gitpython
+python-dotenv
+openai
+streamlit
+pydantic
+graphviz
+markdown
